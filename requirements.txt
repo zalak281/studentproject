@@ -1,0 +1,6 @@
+asgiref
+Django
+mysqlclient
+Pillow
+pytz
+sqlparse
